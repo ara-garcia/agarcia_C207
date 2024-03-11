@@ -1,4 +1,4 @@
-package com.example.registerpage_garcia;
+package com.example.loginpage_garcia;
 
 import androidx.appcompat.app.AppCompatActivity;
 

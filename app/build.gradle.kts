@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.registerpage_garcia"
+    namespace = "com.example.loginpage_garcia"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.registerpage_garcia"
+        applicationId = "com.example.loginpage_garcia"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

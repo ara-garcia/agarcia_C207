@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">RegisterPage_Garcia</string>
-    <string name="fname">full name</string>
-    <string name="uname">username</string>
-    <string name="email">email</string>
-    <string name="pass_hint">password</string>
-    <string name="retype_pass">retype password</string>
-    <string name="signup_btn">Sign up</string>
-    <string name="or_signup">or sign up with</string>
-    <string name="goto_signin">Already a member? Sign in</string>
+    <string name="app_name">LogInPage_Garcia</string>
+    <string name="signin">Sign In</string>
+    <string name="uname">Username</string>
+    <string name="pass">Password</string>
+    <string name="forgot_pass">Forgot password</string>
+    <string name="login_btn">Login</string>
+    <string name="or_sign">or sign in with</string>
+    <string name="register">not a member yet? Register</string>
+
 </resources>

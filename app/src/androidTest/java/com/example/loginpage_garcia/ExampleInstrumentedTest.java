@@ -1,4 +1,4 @@
-package com.example.registerpage_garcia;
+package com.example.loginpage_garcia;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.registerpage_garcia", appContext.getPackageName());
+        assertEquals("com.example.loginpage_garcia", appContext.getPackageName());
     }
 }
