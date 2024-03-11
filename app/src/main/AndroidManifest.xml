@@ -10,29 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Garcia_App"
+        android:theme="@style/Theme.RegisterPage_Garcia"
         tools:targetApi="31">
-        <activity
-            android:name=".ScorePage"
-            android:exported="false" />
-        <activity
-            android:name=".Question5"
-            android:exported="false" />
-        <activity
-            android:name=".Question4"
-            android:exported="false" />
-        <activity
-            android:name=".Question3"
-            android:exported="false" />
-        <activity
-            android:name=".Question2"
-            android:exported="false" />
-        <activity
-            android:name=".Question1"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity2"
-            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

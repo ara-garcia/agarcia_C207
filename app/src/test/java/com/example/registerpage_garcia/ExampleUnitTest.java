@@ -1,4 +1,4 @@
-package com.example.garcia_app;
+package com.example.registerpage_garcia;
 
 import org.junit.Test;
 
